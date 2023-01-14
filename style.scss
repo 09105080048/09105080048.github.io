@@ -344,7 +344,7 @@ main{
           color: $text_primary;
           padding-bottom: 10px;
           border-bottom: 1px solid #d5c455;
-          overflow: scroll;
+          overflow: auto;
 
           > i{
             // color: $primary_color;
@@ -539,6 +539,7 @@ main{
           > a{
             text-decoration: none;
             color: $secondary_color;
+            transition: 0.4s;
             cursor: pointer;
             &:hover{
               color: $text_secondary;
