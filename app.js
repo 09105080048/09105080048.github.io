@@ -14,28 +14,28 @@ const skills = [
 const projects = [
     {
         id:1,
-        img : "assets/calculator3.png",
+        img : "calculator3.png",
         project_naem: "Calculator",
         project_link: "#",
         category: "Web"
     },
     {
         id:2,
-        img : "assets/DonyayeAyandeh_new.png",
+        img : "DonyayeAyandeh_new.png",
         project_naem: "Donyaye Ayandeh",
         project_link: "#",
         category: "Android"
     },
     {
         id:3,
-        img : "assets/countries.png",
+        img : "countries.png",
         project_naem: "Countries Application",
         project_link: "#",
         category: "Android"
     },
 /*     {
         id:4,
-        img : "assets/countries.png",
+        img : "countries.png",
         project_naem: "Countries Application",
         project_link: "#",
         category: "Android"
