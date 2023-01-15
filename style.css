@@ -212,7 +212,7 @@ main {
             color: #3a5a40;
             padding-bottom: 10px;
             border-bottom: 1px solid #d5c455;
-            overflow: scroll; }
+            overflow: auto; }
             .scroll-container .section0-about .container .col-about ul > li > i {
               color: #E04688; }
             .scroll-container .section0-about .container .col-about ul > li > a {
