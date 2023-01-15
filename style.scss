@@ -344,7 +344,7 @@ main{
           color: $text_primary;
           padding-bottom: 10px;
           border-bottom: 1px solid #d5c455;
-          overflow: hidden;
+          overflow:auto;
 
           > i{
             // color: $primary_color;
